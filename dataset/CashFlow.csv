@@ -1,0 +1,25 @@
+Activity,Category,"Cash Flow","Cash Flow (copy)",Icon,"Number of Records"
+"Financing Activities","Bank Overdraft",$0,$0,0,1
+"Financing Activities","Change in line of credit","$71,685","$71,685",0,1
+"Financing Activities","Change in notes payable",$0,$0,0,1
+"Financing Activities",Contributions,$0,$0,0,1
+"Financing Activities","Net repayments on capital lease obligations",$0,$0,0,1
+"Investing Activities","Cash paid for purchase of fixed assets",$0,$0,0,1
+"Investing Activities","Proceeds from notes receivable",$0,$0,0,1
+"Investing Activities","Proceeds from sale (Purchase) of property and equipment","-$20,094","-$20,094",0,1
+"Investing Activities","Restricted Cash",$0,$0,0,1
+"Operating Activities","Accounts payable","-$963,402","-$963,402",0,1
+"Operating Activities","Accounts receivable","$536,334","$536,334",0,1
+"Operating Activities","Accrued expenses","-$515,226","-$515,226",0,1
+"Operating Activities","Adjustments to reconcile net loss to net cash",$0,$0,0,1
+"Operating Activities","Changes in operating assets and liabilities:",$0,$0,0,1
+"Operating Activities","Customer deposits","$4,108,431","$4,108,431",0,1
+"Operating Activities","Deferred income taxes",$0,$0,0,1
+"Operating Activities","Depreciation and amortization expense","$32,760","$32,760",0,1
+"Operating Activities","Federal income tax receivable",$0,$0,0,1
+"Operating Activities","Gain or Loss on Fx","$29,763","$29,763",0,1
+"Operating Activities","Net Income / (Loss)","$32,984","$32,984",0,1
+"Operating Activities","Non-current assets","-$20,627","-$20,627",0,1
+"Operating Activities","Other receivables",$0,$0,0,1
+"Operating Activities","Prepaid expenses and other current assets","-$3,162","-$3,162",0,1
+"Operating Activities","provided by (used in) operating activities:",$0,$0,0,1
